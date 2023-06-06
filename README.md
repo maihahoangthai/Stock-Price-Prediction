@@ -34,5 +34,6 @@ Lưu ý:
 (5)	Sử dụng các tập đặc trưng khác nhau (liên quan đến câu hỏi (2)) để tìm ra tập đặc trưng hiệu quả nhất cho bài toán. Tìm đặc trưng quan trọng nhất ảnh hưởng đến sự giá trị của cái phải dự đoán (tức là feature nào ảnh hưởng nhất đến output).
 <br/>
 (6) Nghiên cứu áp dụng các mô hình Deep Learning để giải quyết bài toán. Ví dụ mô hình LSTM, mô hình CNN, các mô hình kết hợp các phương pháp khác nhau.
-<br/>
 
+## Dataset
+Tất cả các tập dữ liệu sử dụng trong bài này, đều được crawl về từ trang Cafef, ví dụ: [Mã CMX trong 'chungkhoangia.csv'](https://s.cafef.vn/Lich-su-giao-dich-CMX-1.chn). Tuy nhiên, Code chỉ gói gọn trong phạm vi của 'chungkhoangia.csv' mà thôi.
