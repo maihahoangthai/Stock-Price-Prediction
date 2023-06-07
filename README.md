@@ -36,4 +36,7 @@ Lưu ý:
 (6) Nghiên cứu áp dụng các mô hình Deep Learning để giải quyết bài toán. Ví dụ mô hình LSTM, mô hình CNN, các mô hình kết hợp các phương pháp khác nhau.
 
 ## Dataset
-Tất cả các tập dữ liệu sử dụng trong bài này, đều được crawl về từ trang Cafef, ví dụ: [Mã CMX trong 'chungkhoangia.csv'](https://s.cafef.vn/Lich-su-giao-dich-CMX-1.chn). Tuy nhiên, Code chỉ gói gọn trong phạm vi của 'chungkhoangia.csv' mà thôi.
+Thư mục **Dataset 0** có chứa 3 tệp dữ liệu đi kèm với đề bài: chungkhoancophieu, chungkhoangia, chungkhoantaichinh. Mọi thứ đều được crawl về từ trang Cafef. Ví dụ: [Mã CMX trong 'chungkhoangia.csv'](https://s.cafef.vn/Lich-su-giao-dich-CMX-1.chn)
+<br/>
+Thư mục **Dataset 1** chứa các mã chứng khoán đã qua xử lý thô từ tệp dữ liệu ban đầu chungkhoangia.csv.
+Hiện tại, Project này chỉ gói gọn trong phạm vi của 'chungkhoangia.csv'. Code mặc định sẽ cần 'chungkhoangia.csv' nằm ở cùng thư mục để chạy.
